@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  width: 30%;
+}
+
+.container .h-singup, .container .h-login, .container .h-remove {
+  background-color: #5f82ce;
+  border-radius: 15px;
+}
+
+.container button, .container .signup-msg, .container .login-msg, .container .h-singup, .container .remove-msg {
+  margin-top: 15px;
+}
+
+.container input {
+  text-align: center;
+}
+
+.container .signup-msg, .container .login-msg, .container .remove-msg {
+  font-weight: bold;
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
